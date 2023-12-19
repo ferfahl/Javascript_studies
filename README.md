@@ -1,0 +1,1 @@
+# Some studies of Javascript
